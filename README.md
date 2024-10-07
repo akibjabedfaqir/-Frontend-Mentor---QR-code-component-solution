@@ -36,8 +36,6 @@ Rather than complicate this with using a framework, I felt using HTML and CSS on
 
 
 
-in ![](css/styles.css) (line 15, 16) worked - I was anticipating 50% to move to the centre of the page.
-
 ## Author
 
 - GitHub - [@akibjabedfaqir]https://github.com/akibjabedfaqir
