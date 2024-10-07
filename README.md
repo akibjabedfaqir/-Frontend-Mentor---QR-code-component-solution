@@ -16,7 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./Screenshot (dextop).jpg)
+![](./screens![Screenshot (dextop)](https://github.com/user-attachments/assets/bc782f02-85d9-4d2a-86ce-a4536302c3d5)
+hot.jpg)
 
 ### Links
 
